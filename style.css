@@ -9,3 +9,8 @@ h1 {
   margin: auto;
 }
 
+a {
+  color: pink;
+  text-decoration: underline;
+}
+
